@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: #007bff;
+}
+.button{
+    border: 1px solid black;
+    border-radius: 5px;
+    color: #007bff;
+    background-color: white;
+   margin-left: 600px;
+}
+.button:hover{
+    color: white;
+    background-color: #007bff;
+}
